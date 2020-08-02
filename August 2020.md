@@ -1,1 +1,5 @@
-DAY 60
+#### DAY 60: AUGUST 1,2020
+
+#### DAY 61: AUGUST 2,2020 
+
+#### DAY 62: AUGUST 3,2020 
