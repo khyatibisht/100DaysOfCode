@@ -11,3 +11,5 @@ D17 of #50daysofudacity: Completed lesson 4!! It was a really extensive lesson 
 #### DAY 63: AUGUST 4,2020 
 
 D18 of #50daysofudacity - Started with lesson 5 today!!:tada:
+
+#### DAY 64: AUGUST 5,2020 
