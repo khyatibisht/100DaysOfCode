@@ -13,3 +13,7 @@ D17 of #50daysofudacity: Completed lesson 4!! It was a really extensive lesson 
 D18 of #50daysofudacity - Started with lesson 5 today!!:tada:
 
 #### DAY 64: AUGUST 5,2020 
+
+#### DAY 64: AUGUST 5,2020 
+
+D20 of #50daysofudacity: Completed upto lesson-5:11 of similarity learning!! 
