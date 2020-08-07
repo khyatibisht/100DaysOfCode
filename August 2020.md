@@ -14,6 +14,13 @@ D18 of #50daysofudacity - Started with lesson 5 today!!:tada:
 
 #### DAY 64: AUGUST 5,2020 
 
-#### DAY 64: AUGUST 5,2020 
+
+
+#### DAY 64: AUGUST 6,2020 
 
 D20 of #50daysofudacity: Completed upto lesson-5:11 of similarity learning!! 
+
+#### DAY 65: AUGUST 7,2020 
+
+D20 of #50daysofudacity: Completed upto lesson-5:17 i.e. train a simple text classifier!! 
+
