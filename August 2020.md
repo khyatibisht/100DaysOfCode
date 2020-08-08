@@ -24,3 +24,6 @@ D20 of #50daysofudacity: Completed upto lesson-5:11 of similarity learning!!
 
 D20 of #50daysofudacity: Completed upto lesson-5:17 i.e. train a simple text classifier!! 
 
+#### DAY 66: AUGUST 8,2020 
+
+D21 of #50daysofudacity: Completed upto lesson-5:22
