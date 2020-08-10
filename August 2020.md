@@ -14,7 +14,7 @@ D18 of #50daysofudacity - Started with lesson 5 today!!:tada:
 
 #### DAY 64: AUGUST 5,2020 
 
-
+D19 of #
 
 #### DAY 64: AUGUST 6,2020 
 
@@ -27,3 +27,14 @@ D20 of #50daysofudacity: Completed upto lesson-5:17 i.e. train a simple text cla
 #### DAY 66: AUGUST 8,2020 
 
 D21 of #50daysofudacity: Completed upto lesson-5:22
+
+#### DAY 67: AUGUST 9,2020 
+
+
+
+#### AUGUST 10, 2020
+
+D23 of #50daysofudacity: Started lesson 6 today!!:tada:  
+
+#### DAY 68: AUGUST 11,2020 
+
