@@ -36,5 +36,7 @@ D21 of #50daysofudacity: Completed upto lesson-5:22
 
 D23 of #50daysofudacity: Started lesson 6 today!!:tada:  
 
-#### DAY 68: AUGUST 11,2020 
+#### AUGUST 11,2020 
+
+D24 of #50daysofudacity: Completed upto lesson 6.6 today!
 
