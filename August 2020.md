@@ -59,3 +59,8 @@ D25 of #50daysofudacity: Completed upto lesson 6.17 today!
 #### AUGUST 15,2020 
 
 D28 of #50daysofudacity : Completed lesson 6 today!! Only 1 lesson left now before I finish the course work! :)
+
+#### AUGUST 16,2020 
+
+D29 of #50daysofudacity :Started lesson 7 today!
+
