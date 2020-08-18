@@ -68,3 +68,6 @@ D29 of #50daysofudacity :Started lesson 7 today!
 
 D30 of #50daysofudacity: Completed upto lesson 7.5 today!
 
+#### AUGUST 18, 2020
+
+D31 of #50daysofudacity : Completed upto lesson 7.7 today!! So close to completing the course as only 2 sub lessons to go. I am saving them for tomorrow as I have notes to make for this lesson as well! :)
