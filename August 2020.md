@@ -83,3 +83,5 @@ D33 of #50daysofudacity : Done with lesson 5 notes!
 #### AUGUST 21, 2020 
 
 D34 of #50daysofudacity : Did prepare notes on lesson 6 today :)
+
+#### AUGUST 22, 2020
