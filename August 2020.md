@@ -90,4 +90,20 @@ D35 of #50daysofudacity : Prepared notes for lesson 6.
 
 #### AUGUST 23, 2020
 
+D36
 
+#### AUGUST 24, 2020
+
+D37
+
+#### AUGUST 25, 2020
+
+D38
+
+#### AUGUST 26, 2020
+
+D39
+
+#### AUGUST 27, 2020
+
+D40
