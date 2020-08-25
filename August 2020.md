@@ -90,20 +90,20 @@ D35 of #50daysofudacity : Prepared notes for lesson 6.
 
 #### AUGUST 23, 2020
 
-D36
+D36 of #50daysofudacity : prepared notes for lesson 7.  
 
 #### AUGUST 24, 2020
 
-D37
+D37 of #50daysofudacity : prepared the notes for lesson 3.
 
 #### AUGUST 25, 2020
 
-D38
+D38 of #50daysofudacity :
 
 #### AUGUST 26, 2020
 
-D39
+D39 of #50daysofudacity :
 
 #### AUGUST 27, 2020
 
-D40
+D40 of #50daysofudacity :
