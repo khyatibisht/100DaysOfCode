@@ -98,7 +98,7 @@ D37 of #50daysofudacity : prepared the notes for lesson 3.
 
 #### AUGUST 25, 2020
 
-D38 of #50daysofudacity :
+D38 of #50daysofudacity : prepared notes and did revision for lesson 2.
 
 #### AUGUST 26, 2020
 
