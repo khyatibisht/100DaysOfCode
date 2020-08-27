@@ -107,3 +107,7 @@ D39 of #50daysofudacity :
 #### AUGUST 27, 2020
 
 D40 of #50daysofudacity :
+
+#### AUGUST 28, 2020
+
+D41 of #50daysofudacity :
