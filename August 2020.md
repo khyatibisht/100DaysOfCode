@@ -117,3 +117,5 @@ D41 of #50daysofudacity :
 #### AUGUST 30, 2020
 
 #### AUGUST 31, 2020
+
+Gonna start the coding properly from next month. Excited!!
