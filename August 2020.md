@@ -119,3 +119,4 @@ D41 of #50daysofudacity :
 #### AUGUST 31, 2020
 
 Gonna start the coding properly from next month. Excited!!
+Will try to complete the entire course of ML Azure within 1 week.
