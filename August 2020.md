@@ -114,7 +114,11 @@ D41 of #50daysofudacity :
 
 #### AUGUST 29, 2020
 
-#### AUGUST 30, 2020
+D42 of #50daysofudacity:
+
+### AUGUST 30, 2020
+
+D43 of #50daysofudacity:
 
 #### AUGUST 31, 2020
 
