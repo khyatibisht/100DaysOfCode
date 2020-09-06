@@ -14,6 +14,9 @@ Completed revision for the lesson 5
 
 #### September 6, 2020
 
+Revised the freeCodeCamp's responsive web design certification study material. <br>
+Completed lab activities in Udacity ML Azure's course.
+
 #### September 7, 2020
 
 #### September 8, 2020
