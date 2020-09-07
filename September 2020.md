@@ -19,7 +19,12 @@ Completed lab activities in Udacity ML Azure's course.
 
 #### September 7, 2020
 
+Completed lab activities in Udacity ML Azure's course.
+
 #### September 8, 2020
+
+Looked into the HTML, CSS, JS Courses from Udemy and started one. Completed 
+Completed Lab activity in Udacity ML Azure's course.
 
 #### September 9, 2020
 
