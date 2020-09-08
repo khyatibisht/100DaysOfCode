@@ -28,7 +28,7 @@ Completed Lab activity in Udacity ML Azure's course.
 
 #### September 9, 2020
 
-
+Starting Udemy course on HTML, CSS
 
 #### September 10, 2020
 
