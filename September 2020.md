@@ -28,6 +28,8 @@ Completed Lab activity in Udacity ML Azure's course.
 
 #### September 9, 2020
 
+
+
 #### September 10, 2020
 
 #### September 11, 2020
