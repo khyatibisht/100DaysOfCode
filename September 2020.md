@@ -28,7 +28,7 @@ Completed Lab activity in Udacity ML Azure's course.
 
 #### September 9, 2020
 
-Starting Udemy course on HTML, CSS
+Starting Udemy course on HTML, CSS on Udemy- Build Responsive Real World Websites with HTML5 and CSS3 today.
 
 #### September 10, 2020
 
