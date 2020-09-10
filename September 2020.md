@@ -32,7 +32,11 @@ Starting Udemy course on HTML, CSS on Udemy- Build Responsive Real World Website
 
 #### September 10, 2020
 
+
+
 #### September 11, 2020
+
+
 
 #### September 12, 2020
 
